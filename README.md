@@ -1,7 +1,7 @@
 
-# ASDS 5303 Final Project Submission
+## Airline Customer Satisfaction Survey Analysis
 
-This repository contains the code and analysis for the ASDS 5303 Final Project. The project involves analyzing airline satisfaction data to draw meaningful insights using various data science techniques.
+The project involves analyzing airline satisfaction data to draw meaningful insights using various data science techniques.
 
 ## Table of Contents
 
