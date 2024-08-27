@@ -98,6 +98,15 @@ Each model is evaluated using the following metrics:
 - **ROC Curve & AUC Score**: To measure the ability of the model to distinguish between classes.
 
 ## Results
+![image](https://github.com/user-attachments/assets/9efe8f24-af0e-4bf8-894b-0219fdab7f9e)
+![output (9)](https://github.com/user-attachments/assets/5b764b1a-6349-4aa1-9b54-dd4b02d5178e)
+![output (8)](https://github.com/user-attachments/assets/c0474b41-cae2-421c-b4b5-fd0ac2a664e9)
+![output (7)](https://github.com/user-attachments/assets/7d721cfb-7216-49b0-a6b7-5a955359f13e)
+![output (6)](https://github.com/user-attachments/assets/b74a80cb-a24a-41cd-aba6-518b1dce0321)
+![output (5)](https://github.com/user-attachments/assets/e63bdd87-ee09-49f9-923f-e591578cad9a)
+![output (4)](https://github.com/user-attachments/assets/28204fce-f417-4af2-a794-3d1eb4391676)
+![output (3)](https://github.com/user-attachments/assets/7e83a396-87d5-46c6-ae5e-434e0a159c94)
+![output (11)](https://github.com/user-attachments/assets/59cd9639-d0e0-4ba2-9717-b95f3a0d669c)
 
 ### Key Findings
 
