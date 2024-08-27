@@ -115,6 +115,12 @@ Each model is evaluated using the following metrics:
 
 ### Model Performance
 
+![image](https://github.com/user-attachments/assets/5c028cdb-9627-418f-bd49-c5a151c4a3c9)
+![image](https://github.com/user-attachments/assets/eba43a93-d2c0-47ed-8d30-85e5c5ec124f)
+![image](https://github.com/user-attachments/assets/b259b737-95de-424e-a35e-814bb73a5534)
+![image](https://github.com/user-attachments/assets/b314f733-f18c-41f3-938d-5d38b346e827)
+
+
 - **Logistic Regression**: Provides a summary of the accuracy, precision, recall, and F1-score for the logistic regression model.
 - **Random Forest**: Discusses the feature importance and performance metrics for the Random Forest model.
 - **XGBoost**: Highlights the superior performance of XGBoost in terms of accuracy and AUC score.
