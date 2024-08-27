@@ -1,0 +1,7 @@
+sklearn
+matplotlib
+pandas 
+numpy
+sympy
+seaborn
+scipy
