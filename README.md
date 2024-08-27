@@ -113,11 +113,3 @@ Each model is evaluated using the following metrics:
 ## Conclusion
 
 This section summarizes the insights gained from the analysis, including the importance of certain features in predicting customer satisfaction. The results suggest actionable insights for improving airline services.
-
-## Contributing
-
-If you wish to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
